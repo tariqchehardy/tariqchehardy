@@ -1,17 +1,12 @@
-### 👋 Tariq Chehardy LLC — *Digital Venture Company*
+### Tariq Chehardy LLC
+**Absolute precision. Built to production.**
 
-Independent digital venture company: we **build, launch, and scale** digital products — from first prototype to operating business.
+Senior expert-level software: **custom code · custom scripts · commissioned programming · reverse engineering · PowerShell & internal production · design**.
 
-**🏢 Company profile site:** [tariqchehardy.github.io/tariq-chehardy-llc](https://tariqchehardy.github.io/tariq-chehardy-llc/)
+**🌐 Official site — [tariqchehardy.github.io/tariq-chehardy-llc](https://tariqchehardy.github.io/tariq-chehardy-llc/)**
 
-**What we do**
+**Ventures** — Sovereign Workstation (ephemeral hardened cloud workstations) · PrivacyKit (privacy-first tooling) · Vantage Analytics (lightweight analytics)
 
-| | |
-|---|---|
-| 🚀 **Venture Building** | validated concept → operating product |
-| 🛠️ **Product & Engineering Studio** | production-grade web, mobile & cloud software |
-| 📈 **Growth & Scale** | distribution & operational systems |
+> **Commercial inquiries only — DMs are closed.** Contact: [github.com/tariqchehardy](https://github.com/tariqchehardy)
 
-**Selected ventures** — Sovereign Workstation (ephemeral hardened cloud workstations) · PrivacyKit (privacy-first tooling) · Vantage Analytics (lightweight analytics)
-
-> *Ship early, ship real · Own the whole stack · Privacy is a feature · Cost discipline*
+*Precision first · Production, not prototypes · Minimal by design · Discretion*
