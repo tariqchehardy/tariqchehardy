@@ -9,6 +9,7 @@ Senior expert-level software: **custom code · custom scripts · commissioned pr
 
 > **Commercial inquiries only. DMs are closed.**
 > **Email:** [TariqChehardy@gmail.com](mailto:TariqChehardy@gmail.com)
+> **X:** [@TariqChehardy](https://x.com/TariqChehardy)
 > **Address:** 4502 Gaston Ave, Apt 119, Dallas, TX 75246
 > **Founded:** 2020
 > **Founder:** Tariq Chehardy · born 05/15/1989 🎂
